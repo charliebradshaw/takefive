@@ -28,5 +28,14 @@ Timings of each individual beat.
 # Acknowledgments
 This project was inspired by Dave Brubeck and his famous song "Take Five".
 
+# References
+The Dave Brubeck Quartet. (1959) Take Five [Song] On Time Out. Columbia 4
+
+Bitesize Piano (2022, October 3) TAKE FIVE - Dave Brubeck Piano Tutorial [chords accompaniment] [Video]. YouTube. https://www.youtube.com/watch?v=hyB24T8rqxI&ab_channel=BitesizePiano
+
+TunePad Tunetorials (2022, March 24) How to code Bassthoven in TunePad (part1) [Video]. YouTube. https://www.youtube.com/watch?v=-lvKwXLcQMA&ab_channel=TunePadTunetorials
+
+Learn TunePad (2024) TunePad Documentation. https://learn.tunepad.com/docs/
+
 # Contact
 Charlotte.M.Bradshaw@student.uts.edu.au
